@@ -1,4 +1,4 @@
-package com.bronski.weather.ui.theme
+package com.bronski.weather.presentation.ui.theme
 
 import androidx.compose.material.Typography
 import androidx.compose.ui.text.TextStyle
