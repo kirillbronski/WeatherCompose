@@ -1,4 +1,4 @@
-package com.bronski.weather.presentation
+package com.bronski.weather.presentation.ui.weatherScreen
 
 import com.bronski.weather.domain.weather.WeatherInfo
 
